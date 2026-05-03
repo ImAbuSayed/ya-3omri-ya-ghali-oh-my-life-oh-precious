@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ya 3omri Ya Ghali – Oh My Life, Oh Precious |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-3omri-ya-ghali-oh-my-life-oh-precious/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
