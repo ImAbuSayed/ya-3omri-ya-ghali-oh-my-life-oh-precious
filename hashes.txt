@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya 3omri Ya Ghali – Oh My Life, Oh Precious
+
+This log tracks the cryptographic history and versioning for the song **Ya 3omri Ya Ghali – Oh My Life, Oh Precious** (ya-3omri-ya-ghali-oh-my-life-oh-precious).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:28:42.546953 | `v1` | `90bebb2f0fb86c19f07a05f2a787c8f1c12dc07745a0ca7d44868297a191965f` | `feffb9a964e795198ca95452bee31a6e00c4c88c47dacf5b4b54a57d35d1ddcc` | `2026-05-09_ya-3omri-ya-ghali-oh-my-life-oh-precious-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
